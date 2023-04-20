@@ -20,3 +20,8 @@ col3.image('https://pixy.org/src/94/946218.gif')
 
 # Caption erstellen 
 st.caption('Erstellt von BMLD Studentinnen: Lea Gugganig, Michèle Pfister und Ivana Vujinovic')
+
+options = st.selectbox("wähle seite", ["notizen"])
+
+if options == "notizen":
+    Notizen
