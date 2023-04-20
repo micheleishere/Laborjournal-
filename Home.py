@@ -1,4 +1,5 @@
 import streamlit as st
+import Notizen
 
 # Logo/Name setzen für Tab in Google, so dass nicht "local" steht
 st.set_page_config(
