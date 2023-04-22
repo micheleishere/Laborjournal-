@@ -3,7 +3,7 @@ import Notizen
 
 # Logo/Name setzen für Tab in Google, so dass nicht "local" steht
 st.set_page_config(
-    page_title="Laborjournal ZHAW"
+    page_title="Chemie Protokoll"
 )
 
 # Seitenleiste-Kommentar erstellen
